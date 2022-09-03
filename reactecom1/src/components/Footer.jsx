@@ -23,7 +23,7 @@ const Left = styled.div`
 
 const Logo = styled.h1``;
 
-const Desc = styled.p`
+const Description = styled.p`
   margin: 20px 0px;
 `;
 
@@ -85,11 +85,11 @@ const Footer = () => {
         <Container>
           <Left>
             <Logo>ELDORADO.</Logo>
-            <Desc>
+            <Description>
               There are many variations of passages of Lorem Ipsum available, but
               the majority have suffered alteration in some form, by injected
               humour, or randomised words which don’t look even slightly believable.
-            </Desc>
+            </Description>
             <SocialContainer>
               <SocialIcon color="3B5999">
                 <Facebook />

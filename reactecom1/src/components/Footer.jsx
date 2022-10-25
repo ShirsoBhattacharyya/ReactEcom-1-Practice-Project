@@ -84,7 +84,7 @@ const Footer = () => {
     return (
         <Container>
           <Left>
-            <Logo>ELDORADO.</Logo>
+            <Logo>TWEEK.</Logo>
             <Description>
               There are many variations of passages of Lorem Ipsum available, but
               the majority have suffered alteration in some form, by injected
@@ -129,7 +129,7 @@ const Footer = () => {
               <Phone style={{marginRight:"10px"}}/> +1 234 56 78
             </ContactItem>
             <ContactItem>
-              <MailOutline style={{marginRight:"10px"}} /> contact@eldorado.com
+              <MailOutline style={{marginRight:"10px"}} /> contact@tweek.com
             </ContactItem>
             <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
           </Right>

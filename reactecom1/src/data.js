@@ -1,10 +1,10 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "http://www.pinkvilla.com/files/styles/large/public/summer_dresses_for_women_4.jpg?itok=H-PzWEyR",
+      img: "https://www.kindpng.com/picc/m/127-1277512_cara-delevingne-model-and-cara-image-model-cara.png",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      bg: "f5fafd",
+      bg: "f7f7f7",
     },
     {
       id: 2,
@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://static.cotondoux.com/media/product/large/2022/01/11098/34363.jpg",
+      img:"https://www.pngall.com/wp-content/uploads/5/Shirt-PNG-Image-File.png",
     },
     {
       id:3,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://i.pinimg.com/736x/23/9c/29/239c29731aeada797c6dd78817e92665.jpg",
+      img:"https://freepngimg.com/thumb/dress_shirt/8-2-dress-shirt-transparent.png",
     },
     {
       id:8,

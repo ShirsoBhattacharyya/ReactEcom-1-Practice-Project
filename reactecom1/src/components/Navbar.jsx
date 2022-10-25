@@ -65,7 +65,7 @@ const Navbar = () => {
                 </SearchContainer>
             </Left>
             <Center>
-                <Logo>ELDORADO.</Logo>
+                <Logo>TWEEK.</Logo>
             </Center>
             <Right>
                 <MenuItem>REGISTER</MenuItem>

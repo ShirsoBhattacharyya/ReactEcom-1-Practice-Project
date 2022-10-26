@@ -84,8 +84,20 @@ const Payment = styled.img`
     width: 50%;
 `;
 
+const Strip=styled.div`
+    height:30px;
+    background-color:teal;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:14px;
+    font-weight:500;
+`;
+
 const Footer = () => {
     return (
+      <>
         <Container>
           <Left>
             <Logo>TWEEK.</Logo>
@@ -138,6 +150,10 @@ const Footer = () => {
             <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
           </Right>
         </Container>
+        <Strip>
+          Made with ❤️ by Shirso Bhattacharyya.
+        </Strip>
+      </>  
       );
 }
 
